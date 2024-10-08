@@ -13,7 +13,7 @@
 
 ## 🎉 What is Hacktoberfest?
 
-**Hacktoberfest** is an annual event hosted by DigitalOcean that celebrates open-source software and encourages developers of all skill levels to contribute. Every October, developers from all around the world join to make contributions, improve their skills, and help grow the community.
+**Hacktoberfest** is an annual celebration of open source, held during the month of October. It encourages developers around the world to contribute to open-source repositories by submitting pull requests (PRs). By contributing to open-source projects, participants can win prizes, such as free t-shirts, stickers, and digital badges, after completing four pull requests.
 
 Whether you're a beginner or an expert, Hacktoberfest is for everyone. It’s a fantastic opportunity to engage with open source, learn new things, and earn awesome rewards!
 
